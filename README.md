@@ -4,10 +4,11 @@ Created using HTML5, CSS3 and Bootstrap4.
          
 <h1> FEATURES -- </h2>
          
-<ul> 
+<ul> </li>
+  <li>User-friendly The site will provide user-friendly interface to the visitors.</li>
   <li>This is a website similar to Tinder named Tindog</li>
   <li>The one difference between Tinder and Tindog is that Tindog is made for Dogs.</li>
-  <li></li>
+  <li>Strategically used colors and textures.</li>
 </ul>
          
 <h1> SCREENSHOTS-- </h2>

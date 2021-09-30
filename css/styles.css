@@ -1,7 +1,7 @@
 
 #title{
   background-color:#ff4c68;
-    color: #fff;
+    color: #FFFACD;
 
 }
 .Container-fluid
@@ -76,7 +76,7 @@ P
 #features
 {
    padding: 9% 11%;
-   background-color: white;
+   background-color: 	lightyellow;
    position: relative;
 }
 
@@ -160,7 +160,7 @@ P
    padding: 5% 13%;
    text-align: center;
    background-color: #ff4c68;
-  color: white;
+  color: 	lightyellow;
 }
 .faa{
   font-family: "Montserrat-Black";
@@ -183,5 +183,5 @@ P
   margin : 20px 10px;
  }
  .git:hover{
-   color: blue;
+   color: mediumblue;
  }
